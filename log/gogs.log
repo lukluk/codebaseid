@@ -1,0 +1,47 @@
+2018/04/17 06:57:58 [TRACE] Log Mode: File (Trace)
+2018/04/17 06:57:58 [ INFO] Gogs 0.11.43.0330
+2018/04/17 06:57:58 [ INFO] Cache Service Enabled
+2018/04/17 06:57:58 [ INFO] Session Service Enabled
+2018/04/17 06:57:58 [ INFO] Mail Service Enabled
+2018/04/17 06:57:59 [ INFO] Git Version: 2.7.4
+2018/04/17 06:57:59 [ INFO] Git config user.name set to Gogs
+2018/04/17 06:57:59 [ INFO] Git config user.email set to gogs@fake.local
+2018/04/17 06:57:59 [ INFO] SQLite3 Supported
+2018/04/17 06:57:59 [ INFO] Run Mode: Production
+2018/04/17 06:57:59 [TRACE] Doing: CheckRepoStats
+2018/04/17 06:57:59 [ INFO] Listen: http://0.0.0.0:3000
+2018/04/17 07:00:33 [TRACE] Log Mode: File (Trace)
+2018/04/17 07:00:33 [ INFO] Gogs 0.11.43.0330
+2018/04/17 07:00:33 [ INFO] Cache Service Enabled
+2018/04/17 07:00:33 [ INFO] Session Service Enabled
+2018/04/17 07:00:33 [ INFO] Mail Service Enabled
+2018/04/17 07:00:33 [ INFO] Git Version: 2.7.4
+2018/04/17 07:00:34 [ INFO] SQLite3 Supported
+2018/04/17 07:00:34 [ INFO] Run Mode: Production
+2018/04/17 07:00:34 [TRACE] Doing: CheckRepoStats
+2018/04/17 07:00:34 [ INFO] Listen: http://0.0.0.0:3000
+2018/04/17 07:00:35 [TRACE] Session ID: 7eab3cc566fcf7ad
+2018/04/17 07:00:35 [TRACE] CSRF Token: aRzgKiQEZNLee2VKpa6QmT8f71E6MTUyMzk0ODQzNTQ1NzY0OTEwNg==
+2018/04/17 07:00:35 [TRACE] Template: home
+2018/04/17 07:01:38 [TRACE] Log Mode: File (Trace)
+2018/04/17 07:01:38 [ INFO] Gogs 0.11.43.0330
+2018/04/17 07:01:38 [ INFO] Cache Service Enabled
+2018/04/17 07:01:38 [ INFO] Session Service Enabled
+2018/04/17 07:01:38 [ INFO] Mail Service Enabled
+2018/04/17 07:01:39 [ INFO] Git Version: 2.7.4
+2018/04/17 07:01:39 [ INFO] SQLite3 Supported
+2018/04/17 07:01:39 [ INFO] Run Mode: Production
+2018/04/17 07:01:39 [TRACE] Doing: CheckRepoStats
+2018/04/17 07:01:39 [ INFO] Listen: http://0.0.0.0:3000
+2018/04/17 07:01:42 [TRACE] Session ID: 7eab3cc566fcf7ad
+2018/04/17 07:01:42 [TRACE] CSRF Token: aRzgKiQEZNLee2VKpa6QmT8f71E6MTUyMzk0ODQzNTQ1NzY0OTEwNg==
+2018/04/17 07:01:42 [TRACE] Template: home
+2018/04/17 07:01:43 [TRACE] Session ID: 7eab3cc566fcf7ad
+2018/04/17 07:01:43 [TRACE] CSRF Token: aRzgKiQEZNLee2VKpa6QmT8f71E6MTUyMzk0ODQzNTQ1NzY0OTEwNg==
+2018/04/17 07:01:43 [TRACE] Template: status/404
+2018/04/17 07:01:54 [TRACE] Session ID: 7eab3cc566fcf7ad
+2018/04/17 07:01:54 [TRACE] CSRF Token: aRzgKiQEZNLee2VKpa6QmT8f71E6MTUyMzk0ODQzNTQ1NzY0OTEwNg==
+2018/04/17 07:01:54 [TRACE] Template: explore/repos
+2018/04/17 07:01:56 [TRACE] Session ID: 7eab3cc566fcf7ad
+2018/04/17 07:01:56 [TRACE] CSRF Token: aRzgKiQEZNLee2VKpa6QmT8f71E6MTUyMzk0ODQzNTQ1NzY0OTEwNg==
+2018/04/17 07:01:56 [TRACE] Template: home
